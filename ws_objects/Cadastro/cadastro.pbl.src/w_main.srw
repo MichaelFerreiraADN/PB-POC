@@ -73,7 +73,7 @@ fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
 string facename = "Tahoma"
-string text = "1."
+string text = "1.."
 end type
 
 type dw_1 from datawindow within w_main
