@@ -5,10 +5,10 @@ end type
 end forward
 
 global type w_main from window
-integer width = 4754
-integer height = 1980
+integer width = 4201
+integer height = 2116
 boolean titlebar = true
-string title = "Untitled"
+string title = "POC PB"
 boolean controlmenu = true
 boolean minbox = true
 boolean maxbox = true
