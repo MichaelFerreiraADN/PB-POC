@@ -20,6 +20,7 @@ end type
 global w_main w_main
 
 event open;//
+//
 end event
 
 on w_main.create
